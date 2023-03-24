@@ -8,9 +8,9 @@ This is a very simple ArcMap encapsulation toolbox that can automatically genera
 ![image](https://user-images.githubusercontent.com/97808991/150497782-6f39f84e-ea7b-401e-9a00-8076ce9688aa.png)
 
 ## Input parameters
-DEM - Digital elevation model
+DEM - Digital Elevation Model
 
-LINEA - line segment
+LINEA - Line segment
 
 ## Ouput parameters
 TABLA - Data table
