@@ -7,6 +7,8 @@ This is a very simple ArcMap encapsulation toolbox that can automatically genera
 
 ![image](https://user-images.githubusercontent.com/97808991/150497782-6f39f84e-ea7b-401e-9a00-8076ce9688aa.png)
 
+该工具箱通过输入DEM模型和用户指定的线段，通过线段所在位置计算模型的地形剖面图。
+
 ## Input parameters
 DEM - Digital Elevation Model
 
