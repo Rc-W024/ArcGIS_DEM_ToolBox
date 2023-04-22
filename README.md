@@ -11,13 +11,13 @@ This is a very simple ArcGIS encapsulation toolbox that can automatically genera
 该工具箱通过输入DEM模型和用户指定的线段，通过线段所在位置调用内部工具，计算并生成其地形剖面图。
 
 ## Input parameters
-DEM - Digital Elevation Model
+DEM - Digital Elevation Model 数字高程模型
 
-LINEA - Line segment
+LINEA - Line segment 线段
 
 ## Ouput parameters
-TABLA - Data table
+TABLA - Data table 数据表
 
-GRAFICO - Generated profile
+GRAFICO - Generated profile 生成的剖面
 
 ![image](https://user-images.githubusercontent.com/97808991/150498461-82990254-4001-4132-9162-53a146ff656f.png)
