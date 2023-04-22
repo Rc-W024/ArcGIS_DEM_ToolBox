@@ -18,6 +18,6 @@ LINEA - Line segment 线段
 ## Ouput parameters
 TABLA - Data table 数据表
 
-GRAFICO - Generated profile 生成的剖面
+GRAFICO - Generated profile 生成的地形剖面图
 
 ![image](https://user-images.githubusercontent.com/97808991/150498461-82990254-4001-4132-9162-53a146ff656f.png)
